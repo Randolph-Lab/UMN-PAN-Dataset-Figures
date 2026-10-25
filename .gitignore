@@ -1,0 +1,35 @@
+# macOS metadata and Python-generated files
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Input data and generated figures
+/Input Data/
+/Figures/
+
+# Datasets and generated metadata (reference files are re-included below)
+*.[cC][sS][vV]
+*.[xX][lL][sS][xX]
+*.[jJ][sS][oO][nN]
+!/References/ethnicity_mapping.json
+!/References/icd9toicd10cmgem.csv
+!/References/section111validicd10-jan2025_0.xlsx
+!/Map Data/great_lakes.geojson
+
+# Generated graphics and manuscript materials
+*.[pP][nN][gG]
+*.[sS][vV][gG]
+*.[pP][dD][fF]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[tT][iI][fF]*
+*.[dD][oO][cC][xX]
+*.[xX][lL][sS]
+*.md
+!README.md
+*.txt
+!requirements.txt

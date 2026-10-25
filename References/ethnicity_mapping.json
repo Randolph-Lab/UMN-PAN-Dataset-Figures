@@ -1,0 +1,108 @@
+[
+  {
+    "category": "White",
+    "values": [
+      "Caucasian",
+      "French-Canadian",
+      "Russian",
+      "Latvian",
+      "Ukrainian",
+      "Polish",
+      "Bosnian",
+      "Bulgarian",
+      "Romanian",
+      "Hungarian",
+      "Italian",
+      "German",
+      "Lithuanian",
+      "Belarusian",
+      "Irish"
+    ]
+  },
+  {
+    "category": "Black or African American",
+    "values": [
+      "African American",
+      "Ethiopian",
+      "Liberian",
+      "Somalian",
+      "Ugandan",
+      "Sierra Leonean",
+      "Nigerian",
+      "Kenyan",
+      "Congolese",
+      "Burundi",
+      "Sudanese",
+      "Ghanaian",
+      "Burkina Faso",
+      "South African",
+      "Black"
+    ]
+  },
+  {
+    "category": "Asian",
+    "values": [
+      "Korean",
+      "South Korean",
+      "Chinese",
+      "Taiwanese",
+      "Kazakhstanian",
+      "Korea",
+      "Indian",
+      "South Indian",
+      "Kyrgyz",
+      "Filipino",
+      "Thai",
+      "Vietnamese",
+      "Cambodian",
+      "Lao",
+      "Laotian",
+      "Karen",
+      "Marshallese",
+      "Asian",
+      "Asian American",
+      "Amis"
+    ]
+  },
+  {
+    "category": "American Indian/Alaska Native",
+    "values": [
+      "Native American",
+      "American Indian",
+      "Indigenous",
+      "Ojibwe",
+      "Chippewa",
+      "Dakota",
+      "Lakota",
+      "Potawatomi",
+      "Ho-Chunk",
+      "Rosebud Sioux",
+      "Leech Lake Band of Ojibwe",
+      "ST Croix Band of Ojibwe",
+      "Mille Lacs Band of Ojibwe",
+      "Fond du Lac",
+      "Sisseton Siox",
+      "Upper Sioux",
+      "Lower Sioux",
+      "Nett Lake",
+      "Red Lake",
+      "Canadian Indian",
+      "White Earth Tribe",
+      "White Buffalo"
+    ]
+  },
+  {
+    "category": "Pacific Islander",
+    "values": [
+      "Marshallese",
+      "Pacific Islander"
+    ]
+  },
+  {
+    "category": "Unknown / Not Reported",
+    "values": [
+      "Choose not to answer",
+      "Unknown / Not Reported"
+    ]
+  }
+]
